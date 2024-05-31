@@ -12,3 +12,6 @@ Thumbs.db
 node_modules/
 
 # Собранные файлы (допишите самостоятельно)
+package.json
+webpack.config.js
+build/index.html
